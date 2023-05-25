@@ -1,0 +1,10 @@
+dabl==0.2.5
+imbalanced_learn==0.10.1
+imblearn==0.0
+matplotlib==3.7.1
+numpy==1.24.3
+openai==0.27.7
+pandas==2.0.1
+scipy==1.10.1
+seaborn==0.12.2
+streamlit==1.22.0
